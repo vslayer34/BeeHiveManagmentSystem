@@ -24,5 +24,11 @@ namespace BeeHiveManagmentSystem
         {
             InitializeComponent();
         }
+
+
+        private void WorkShift_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
